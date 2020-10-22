@@ -1,0 +1,7 @@
+{
+  "eslint.codeActionsOnSave.mode": "problems",
+  "prettier.packageManager": "yarn",
+  "prettier.disableLanguages": [
+    "css"
+  ]
+}
